@@ -1,4 +1,3 @@
-
 This repository provides a convenient mechanism for generating TopoJSON files from [Natural Earth](http://naturalearthdata.com/).
 Before you can run `make`, you’ll need to install Node.js, ```topojson``` and the ```gdal``` package for your system.
 
@@ -12,15 +11,6 @@ I also recommend reading Mike's tutorial, [Let’s Make a Map](http://bost.ocks.
 
 ## Make Targets
 
-<b>topo/world-10m.json</b>
-
-Admin 0 country boundaries at 1:10,000,000 scale.
-
-<b>topo/world-50m.json</b>
-
-Admin 0 country boundaries at 1:50,000,000 scale.
-
-<b>topo/world-110m.json</b>
-
-Admin 0 country boundaries at 1:110,000,000 scale.
-
+* **topo/world-10m.json**: Admin 0 country boundaries at 1:10,000,000 scale.
+* **topo/world-50m.json**: Admin 0 country boundaries at 1:50,000,000 scale.
+* **topo/world-110m.json**: Admin 0 country boundaries at 1:110,000,000 scale.
